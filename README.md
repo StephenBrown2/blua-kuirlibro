@@ -1,4 +1,7 @@
 # blua-kuirlibro
+
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
 An "API" around Blue Apron's Cookbook of recipes.
 
 ## Inspiration / References
